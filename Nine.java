@@ -1,5 +1,6 @@
 package OneTen;
-
+// There exists exactly one Pythagorean triplet for which a + b + c = 1000.
+// Find the product abc.
 public class Nine {
     public static void main(String[] args)
     {
@@ -20,9 +21,9 @@ public class Nine {
                             System.out.println("Wynik to " + result);
                         }
                     }
-                }
-            }
-        }
+                }//c
+            }//b
+        }//a
     }
     public static boolean is1000(int a, int b, int c)
     {
