@@ -1,6 +1,6 @@
 package ElevenTwenty;
 
-public class Fourteen {
+public class Euler14 {
     public static long even(long n){
         return n/2;
     }
