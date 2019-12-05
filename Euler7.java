@@ -1,6 +1,6 @@
 package OneTen;
 
-public class Seven {
+public class Euler7 {
 
     public static long nOPrime(long x)
     {
