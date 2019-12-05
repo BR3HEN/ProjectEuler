@@ -1,6 +1,6 @@
 package ElevenTwenty;
 //What is the value of the first triangle number to have over five hundred divisors?
-public class Twelve {
+public class Euler12 {
     public static void TriangleNum(){//liczy triangle numbers i odwołuje się do metody sprawdzającej ilość dzielników
         int triNum = 1;
         for (int i = 1;; i++){
