@@ -1,6 +1,6 @@
 package OneTen;
 
-public class Eight {
+public class Euler8 {
     public static void main(String[] args) {
         String chain = "73167176531330624919225119674426574742355349194934" +
                 "96983520312774506326239578318016984801869478851843" +
