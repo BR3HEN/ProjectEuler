@@ -2,7 +2,7 @@ package ElevenTwenty;
 
 import java.math.BigInteger;
 
-public class Twenty {
+public class Euler20 {
     // Zwrqaca silnie z n
     static BigInteger factorial(int n)
     {
