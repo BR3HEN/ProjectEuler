@@ -1,6 +1,6 @@
 package OneTen;
 
-public class Six {
+public class Euler6 {
     public static void main(String[] args){
 //Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
         long sumOfSq = 0;//suma potęg
