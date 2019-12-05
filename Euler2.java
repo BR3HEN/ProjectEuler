@@ -1,6 +1,6 @@
 package OneTen;
 //By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
-public class Two {
+public class Euler2 {
     public static void main(String[] arg){
 
         long result = sumEvenFiboNumbers(4000000);//wywołaj metodę
