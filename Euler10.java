@@ -1,6 +1,6 @@
 package OneTen;
 //Find the sum of all the primes below two million.
-public class Ten {
+public class Euler10 {
     public static boolean primeNumb(long a)//Czy to jest liczba pierwsza?
     {
         var sqrt = (int)Math.sqrt(a);//var dla Java 10+
