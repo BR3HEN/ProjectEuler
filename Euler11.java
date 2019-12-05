@@ -1,6 +1,6 @@
 package ElevenTwenty;
 //What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?
-public class Eleven {
+public class Euler11 {
     public static int horizontally(int[][] table){//licz iloczyny w poziomie
         int prod4Digits = 0;
         int maxProdHorizon = 0;
