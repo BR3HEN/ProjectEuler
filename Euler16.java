@@ -2,7 +2,7 @@ package ElevenTwenty;
 
 import java.math.BigInteger;
 
-public class Sixteen {
+public class Euler16 {
     public static void main(String[] args){
 
         BigInteger base = new BigInteger(String.valueOf(2));
