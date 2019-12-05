@@ -1,6 +1,6 @@
 package OneTen;
 
-public class Four {
+public class Euler4 {
     public static void main(String[] arg) {
 //Find the largest palindrome made from the product of two 3-digit numbers.
         int maxResult = 0;
