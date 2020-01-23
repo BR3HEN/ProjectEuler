@@ -7,7 +7,6 @@ public class Euler3 {
 
         long a = 600851475143l;
         long max = 0;
-        long temp = 0;
 
         for (long i = 1; i <= a; i++ )
         {
