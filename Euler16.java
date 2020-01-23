@@ -1,7 +1,7 @@
 package ElevenTwenty;
 
 import java.math.BigInteger;
-
+//What is the sum of the digits of the number 21000?
 public class Euler16 {
     public static void main(String[] args){
 
