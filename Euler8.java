@@ -1,5 +1,5 @@
 package OneTen;
-
+//Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
 public class Euler8 {
     public static void main(String[] args) {
         String chain = "73167176531330624919225119674426574742355349194934" +
