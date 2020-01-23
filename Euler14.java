@@ -1,5 +1,5 @@
 package ElevenTwenty;
-
+//https://projecteuler.net/problem=14
 public class Euler14 {
     public static long even(long n){
         return n/2;
