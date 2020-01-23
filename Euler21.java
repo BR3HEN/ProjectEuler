@@ -1,5 +1,5 @@
 package TwentyOneThirty;
-
+//https://projecteuler.net/problem=21
 public class Euler21 {
 
     static boolean amicablePair(int sum, int i) {
